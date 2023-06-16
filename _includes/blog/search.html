@@ -1,7 +1,10 @@
 <!-- Simple-Jekyll-Search https://github.com/christian-fei/Simple-Jekyll-Search -->
 
 <div class="input-group mt-5 px-3">
-  <input id="search-input" type="text" class="form-control search-box" placeholder="Search posts.." autocomplete="off">
+  <form autocomplete="off" method="post" action="">
+  <input autocomplete="false" name="hidden" type="text" style="display:none;">
+  <input id="search-input" type="text" class="form-control search-box" placeholder="Search posts.." autocomplete="false">
+  </form>
   <div class="input-group-append">
     <span class="input-group-text border border-primary bg-primary text-white">
       <i class="fas fa-search"></i>
