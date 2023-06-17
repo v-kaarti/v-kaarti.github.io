@@ -8,7 +8,7 @@
 
 - name: Python
   percentage: 80
-  color: secondary
+  color: blue
 
 - name: C/MIPS/x86
   percentage: 80
