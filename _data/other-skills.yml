@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Git
+  percentage: 100
   color: info
 
-- name: Adobe Illustrator
+- name: AWS
   percentage: 90
   color: success
