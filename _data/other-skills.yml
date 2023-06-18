@@ -4,11 +4,11 @@
 
 - name: GNU/Linux
   percentage: 90
-  color: success
+  color: primary
 
 - name: Git
   percentage: 90
-  color: primary
+  color: success
 
 - name: AWS
   percentage: 85
@@ -20,4 +20,4 @@
 
 - name: OpenCV
   percentage: 80
-  color: info
+  color: warning
