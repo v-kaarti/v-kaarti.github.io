@@ -1,7 +1,23 @@
+- name: Competitive Programming
+  percentage: 100
+  color: warning
+
+- name: GNU/Linux
+  percentage: 100
+  color: success
+
 - name: Git
   percentage: 100
-  color: info
+  color: primary
 
 - name: AWS
   percentage: 90
-  color: success
+  color: danger
+
+- name: Docker
+  percentage: 80
+  color: info
+
+- name: OpenCV
+  percentage: 80
+  color: info

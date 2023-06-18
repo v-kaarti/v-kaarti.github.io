@@ -1,23 +1,23 @@
 - name: Python
   percentage: 90
-  color: red
+  color: primary
 
 - name: C++
   percentage: 90
-  color: green
+  color: success
 
 - name: Java
   percentage: 90
-  color: blue
+  color: danger
 
 - name: C/MIPS/x86
   percentage: 80
-  color: purple
+  color: warning
 
 - name: JS/TS/MERN
   percentage: 70
-  color: orange
+  color: info
 
 - name: Bash
   percentage: 60
-  color: cyan
+  color: muted
