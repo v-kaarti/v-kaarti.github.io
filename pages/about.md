@@ -7,11 +7,9 @@ weight: 3
 
 # About Me
 
-<img src="../images/islamorada.jpg" alt=":(" style="border-radius: 5%;">
+<img src="../images/islamorada.jpg" alt=":(" style="border-radius: 3%;">
 
-##### ^ That's Pops and I kayaking in Islamorada, Florida
-
-
+<p style="margin-bottom: 1rem; padding: 1rem; color: #717171; background-color: #f9f9f9;">That's Pops and I kayaking in Islamorada, Florida</p>
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
