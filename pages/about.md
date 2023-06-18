@@ -5,11 +5,11 @@ permalink: /about/
 weight: 3
 ---
 
-# About Me
+# Hey! I'm Vijay.
 
-![image](../images/islamorada.jpg)
+<img src="../images/islamorada.jpg" alt=":(" style="border-radius: 5%;">
 
-<span style="background-color:grey"> ^ That's Pops and I kayaking in Islamorada, Florida </span>
+### ^ That's Pops and I kayaking in Islamorada, Florida
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
