@@ -5,13 +5,15 @@ permalink: /about/
 weight: 3
 ---
 
-# Hey! I'm Vijay.
+# **Hey! I'm Vijay**.
 
 <img src="../images/islamorada.jpg" alt=":(" style="border-radius: 3%;">
 
 > ^ That's Pops and I kayaking in sunny Islamorada, Florida :palm_tree:
 
-I'm a computer scientist on the rise! I love learning about computer science at all scales—from low-level compilers all the way to large distributed systems—
+I'm a computer scientist on the rise! I'm a **rising junior** at the University of Maryland, and I love learning about computer science at all scales, from low-level compilers all the way to large distributed systems. I'm also fascinated by how software has challenged what can and cannot be accomplished, and I aspire to engineer systems that keep that pattern alive.
+
+In my free time, I often hike New Hampshire's 4000-footers, practice astrophotography, sail, and backcountry camp—I'm a sucker for the outdoors.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
