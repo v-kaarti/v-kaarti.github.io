@@ -1,20 +1,14 @@
 - title: B.S CS, B.S. Mathematics @ University of Maryland, College Park
   from: 2022
   to: 2025
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I'm pursuing a dual-degree in computer science and applied mathematics here!
+               I also plan on graduating in three years, and I'm a junior by credit standing.
 
 - title: Software Engineering Intern @ Johns Hopkins University Applied Physics Lab
   from: 2023
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a software engineering at JHU APL (with top-secret clearance), I worked on optimizing aerodynamic simulations. I used Python (and its various libraries, e.g., scikit-learn, scipy, matplotlib, seaborn, pandas, etc.) to write production-quality programs that efficiently approximated complex physical simulations (like computational fluid dynamics). To supplement these programs, I created beautiful visualizations for the topic experts to interpret. I also used performant C++ to implement various algorithms from bleeding-edge research papers in the field.
+
 
 - title: Software Engineer @ Hack4Impact
   from: 2023
@@ -37,8 +31,4 @@
 - title: ML/AI Research Intern @ NonExomics
   from: 2020
   to: 2022
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As a machine learning research intern at NonExomics, I was responsible for engineering complex predictive models that took in swathes of disconnected genetic information and churned out accurate, medical-industry-grade disease diagnoses. I used Python (alongside PyTorch, scikit-learn, and other ML/DL and data science libraries) to write high-performance code running on AWS Ubuntu instances. Among my projects were a cancer-prediction algorithm based on VCF (variant call format) data and a hereditary disease indicator based on previously unexplored regions of the human genome.
