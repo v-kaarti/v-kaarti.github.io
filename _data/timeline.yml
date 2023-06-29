@@ -1,26 +1,24 @@
 - title: B.S CS, B.S. Mathematics @ University of Maryland, College Park
   from: 2022
   to: 2025
-  description: "I'm pursuing a dual-degree in **computer science** and **applied mathematics** here! I also plan on graduating in three years, and I'm a **junior** by credit standing."
+  description: I'm pursuing a dual-degree in <b>computer science</b> and <b>applied mathematics</b> here! I also plan on graduating in three years, and I'm a <b>junior</b> by credit standing.
 
 - title: Software Engineering Intern @ Johns Hopkins University Applied Physics Lab
   from: 2023
   to: present
-  description: "As a **software engineering intern** at JHU APL (with top-secret clearance), I worked on optimizing aerodynamic simulations. I used **Python** (and its various libraries, e.g., scikit-learn, scipy, matplotlib, seaborn, pandas, etc.) to write **production-quality programs** that efficiently approximated complex physical simulations (like computational fluid dynamics). To supplement these programs, I created beautiful visualizations for the topic experts to interpret. I also used **performant C++** to implement various algorithms from bleeding-edge research papers in the field."
-
+  description: As a <b>software engineering intern</b> at JHU APL (with top-secret clearance), I worked on optimizing aerodynamic simulations. I used <b>Python</b> (and its various libraries, e.g., scikit-learn, scipy, matplotlib, seaborn, pandas, etc.) to write <b>production-quality programs</b> that efficiently approximated complex physical simulations (like computational fluid dynamics). To supplement these programs, I created beautiful visualizations for the topic experts to interpret. I also used <b>performant C++</b> to implement various algorithms from bleeding-edge research papers in the field.
 
 - title: Software Engineer @ Hack4Impact
   from: 2023
   to: present
-  description: "As an **software engineer** at Hack4Impact, I created interactive web apps using **TypeScript** and the **MERN stack**. I primarily worked in teams of 6+ using the **Agile** process in two-week sprints, and I also met with nonprofit clients to architect project specifications. Ultimately, my contributions to site features, UI/UX design and better ease-of-access **significantly increased organic traffic** to client websites."
-
+  description: As an <b>software engineer</b> at Hack4Impact, I created interactive web apps using <b>TypeScript</b> and the <b>MERN stack</b>. I primarily worked in teams of 6+ using the <b>Agile</b> process in two-week sprints, and I also met with nonprofit clients to architect project specifications. Ultimately, my contributions to site features, UI/UX design and better ease-of-access <b>significantly increased organic traffic</b> to client websites.
 
 - title: Software Engineer, Quant @ Smith Investment Fund
   from: 2022
   to: present
-  description: "I was one of 10 students selected to UMD’s premier investment group, Smith Investment Fund (SIF). As a **software engineer** and **quantitative analyst**, I researched and implemented signal-based and alt-data alphas using scikit-learn for SIF’s $15,000+ AUM. I also developed a **minute-scale live trading platform**, including live backtesting, brokered through Alpaca Securities. Currently, I am rewriting parts of the code base in **modern, Google-styled C++20** for faster data throughput and concurrent trading."
+  description: I was one of 10 students selected to UMD’s premier investment group, Smith Investment Fund (SIF). As a <b>software engineer</b> and <b>quantitative analyst</b>, I researched and implemented signal-based and alt-data alphas using scikit-learn for SIF’s $15,000+ AUM. I also developed a <b>minute-scale live trading platform</b>, including live backtesting, brokered through Alpaca Securities. Currently, I am rewriting parts of the code base in <b>modern, Google-styled C++20</b> for faster data throughput and concurrent trading.
 
 - title: ML/AI Research Intern @ NonExomics
   from: 2020
   to: 2022
-  description: "As an **ML/AI engineering intern** at NonExomics, I was responsible for engineering complex predictive models that took in swathes of disconnected genetic information and churned out accurate, medical-industry-grade disease diagnoses. I used **Python** (alongside PyTorch, scikit-learn, and other ML/DL and data science libraries) to write high-performance code running on **AWS Ubuntu instances**. Among my projects were a cancer-prediction algorithm based on VCF (variant call format) data and a hereditary disease indicator based on previously unexplored regions of the human genome."
+  description: As an <b>ML/AI engineering intern</b> at NonExomics, I was responsible for engineering complex predictive models that took in swathes of disconnected genetic information and churned out accurate, medical-industry-grade disease diagnoses. I used <b>Python</b> (alongside PyTorch, scikit-learn, and other ML/DL and data science libraries) to write high-performance code running on <b>AWS Ubuntu instances</b>. Among my projects were a cancer-prediction algorithm based on VCF (variant call format) data and a hereditary disease indicator based on previously unexplored regions of the human genome.
