@@ -1,7 +1,6 @@
 ---
-name: Dummy Project
-tools: [Ignore me]
-image: https://www.sketchappsources.com/resources/source-image/coo-app-concept-subgaurav.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Vijay's Personal Website
+tools: [HTML/CSS, Sass, JavaScript, Ruby]
+description: View the source code for this portfolio website!
+external_url: https://github.com/v-kaarti/v-kaarti.github.io
 ---
