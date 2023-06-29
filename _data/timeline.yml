@@ -13,17 +13,13 @@
 - title: Software Engineer @ Hack4Impact
   from: 2023
   to: present
-  description: As an engineer at Hack4Impact, I created interactive web apps using TypeScript and the MERN stack. I met with nonprofit clients to architect project specifications, and I worked in teams of 6+ using the Agile process in two-week sprints. Ultimately, my contributions to modern UI/UX design and finer ease-of-access significantly increased organic traffic to client websites.
+  description: As an engineer at Hack4Impact, I created interactive web apps using TypeScript and the MERN stack. I primarily worked in teams of 6+ using the Agile process in two-week sprints, and I also met with nonprofit clients to architect project specifications. Ultimately, my contributions to site features, UI/UX design and better ease-of-access significantly increased organic traffic to client websites.
 
 
 - title: Software Engineer, Quant @ Smith Investment Fund
   from: 2022
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I was one of 10 students selected to UMD’s premier investment group, Smith Investment Fund (SIF). As a software engineer and quantitative analyst, I researched and implemented signal-based and alt-data alphas using scikit-learn for SIF’s $15,000+ AUM. I also developed a minute-scale live trading platform, including live backtesting, brokered through Alpaca Securities. Currently, I am rewriting parts of the code base in modern, Google-styled C++20 for faster data throughput and concurrent trading.
 
 - title: ML/AI Research Intern @ NonExomics
   from: 2020
